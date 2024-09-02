@@ -2674,6 +2674,12 @@ input, select, textarea {
 			}
 
 		/* Footer */
+		#hover-image {
+            display: none;
+            position: absolute;
+            width: 200px;
+            height: 200px;
+        }
 
 			#footer section {
 				border-bottom: solid 1px #ccc;
